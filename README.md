@@ -119,6 +119,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+![image](https://github.com/user-attachments/assets/b2dbf387-55bb-4d7c-976e-eb0567f63aa5)
 
 
 
